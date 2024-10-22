@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on data science related projects  
 - 📫 How to reach me https://www.linkedin.com/in/jamesndau/  
 ## Connect with Me:
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://linkedin.com/in/jamesndau) 
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/james-kano-8843b8273/) 
 
 ## Languages and Tools:
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) 
