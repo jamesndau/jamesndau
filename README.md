@@ -7,4 +7,9 @@
 - 📫 How to reach me https://www.linkedin.com/in/jamesndau/  
 ## Connect with me:  
 - **Email:** jameskano801@gmail.com  
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/jamesndau)
+- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/jamesndau)  
+## Languages and Tools:
+
+![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript  
+![Slim](https://cdn.worldvectorlogo.com/logos/slim.svg) Slim  
+![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg) Laravel  
