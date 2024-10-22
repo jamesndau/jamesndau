@@ -1,4 +1,4 @@
-Hi 👋, I'm James Ndau
+# Hi 👋, I'm James Ndau
        A machine learning enthusiast and software developer
 
 . 👀 I’m interested in  leveraging my technical expertise and passion for ml and software development  to make a positive impact to industry. 
